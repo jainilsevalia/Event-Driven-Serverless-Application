@@ -7,3 +7,4 @@ aws lambda update-function-code \
            --image-uri 621130241729.dkr.ecr.us-east-1.amazonaws.com/extractfeatures:latest
 docker image prune -a --force
 docker system prune -a -y
+read Jainil
